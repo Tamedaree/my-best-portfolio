@@ -47,15 +47,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am Tamiru, a dedicated Software Engineering student at Wolkite
-        University with a strong ambition to excel in IT and software. I am
-        passionate about web development, machine learning, and artificial
-        intelligence. I’ve developed my skills through competitive programming,
-        web development challenges, and coding projects. As part of a
-        development team, I design responsive user interfaces, build RESTful
-        APIs, and integrate frontend with backend functionalities to create
-        seamless applications. I also participated in problem-solving in the
-        ICPC Ethiopian Collegiate Programming Contest.
+        I'm a Software Engineer and Full-Stack Developer with a strong passion for building scalable, user-friendly, and impactful software solutions. 
+        My expertise includes web development, RESTful API design, and frontend-backend integration using modern technologies such as React, Node.js, Java, and Spring Boot.
+        I enjoy solving complex problems, developing real-world applications, and exploring emerging technologies in artificial intelligence and machine learning. 
+        I have experience working on collaborative software projects, participated in the ICPC Ethiopian Collegiate Programming Contest, and 
+        continue to strengthen my skills through practical development and continuous learning.
+        I'm always eager to collaborate with talented teams, contribute to innovative projects, and build technology that solves real-world problems.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
