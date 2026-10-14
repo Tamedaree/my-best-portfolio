@@ -21,7 +21,7 @@ const Footer = () => {
         {/* Social Links */}
         <div className="flex justify-center md:justify-start space-x-6 text-2xl">
           <a
-            href="https://drive.google.com/file/d/18stuxEc4nSh0V2kQZcnc1UY85VUtIvpG/view?usp=drive_link"
+            href="https://drive.google.com/file/d/1LD6Q1OskAMsWVRvbCO623NfikXnBYf8H/view?usp=sharing"
             download
             className="bg-[#915EFF] text-white font-bold py-2 px-6 rounded-full hover:bg-purple-700 hover:scale-105 transition-transform"
           >
@@ -36,7 +36,7 @@ const Footer = () => {
             <FaGithub />
           </a>
           <a
-            href="https://www.linkedin.com/in/tamiru-dereje-b55b5323a/"
+            href="https://www.linkedin.com/in/tamiru-dereje-a8b658372/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-400 hover:text-white transition-colors duration-200"
